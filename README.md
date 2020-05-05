@@ -23,10 +23,11 @@ bahasa prmograman yang saya gunakan :
    * paatikan sudah menginstall apache dan database mysql
    1. buat folder baru di dalam hatedocs
    2. download project [link](https://github.com/adehikmT/dumpway.git)
-   3. kemudian jalankan server apache dan mysqlnya
-   4. buat database baru di mysql dengan nama music (agar tidak melakukan konfigurasi lagi)
-   5. import [music.sql](https://github.com/adehikmT/dumpway/blob/master/music.sql) 
-   6. tujukan url ke folder yang berisi project
+   3. ekstrak file yng sudah di download dalam folder yang sudah di buat
+   4. kemudian jalankan server apache dan mysqlnya
+   5. buat database baru di mysql dengan nama music (agar tidak melakukan konfigurasi lagi)
+   6. import [music.sql](https://github.com/adehikmT/dumpway/blob/master/music.sql) 
+   7. tujukan url ke folder yang berisi project
    
    
 ## Harapan
