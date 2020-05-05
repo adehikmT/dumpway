@@ -20,12 +20,14 @@ bahasa prmograman yang saya gunakan :
 4. membuat website
    saya sudah sertakan file sql yang bernama [music.sql](https://github.com/adehikmT/dumpway/blob/master/music.sql)
    langkah untuk menjalankan :
+   # paatikan sudab menginstall apache dan database mysql
    1. buat folder baru di dalam hatedocs
    2. download project [link](https://github.com/adehikmT/dumpway.git)
-   3. buat database baru di mysql dengan nama music (agar tidak melakukan konfigurasi lagi)
-   4. import [music.sql](https://github.com/adehikmT/dumpway/blob/master/music.sql) 
-   5. kemudian jalankan server apache dan mysqlnya
+   3. kemudian jalankan server apache dan mysqlnya
+   4. buat database baru di mysql dengan nama music (agar tidak melakukan konfigurasi lagi)
+   5. import [music.sql](https://github.com/adehikmT/dumpway/blob/master/music.sql) 
    6. tujukan url ke folder yang berisi project
+   
    
 ## Harapan
 semoga saya bisa masuk ke tahap berikutnya..
